@@ -4,24 +4,6 @@ Ans : Data Definition Language
 Data Manipulation Language 
 
 
-2) Maria, a database programmer wants to change the marks of a student present in the marks column of the student table.
-Which of the following command should she use?
-
-Ans : Update
-
-
-3) Determine the appropriate command classification for the following command.
-Command- ALTER ( Modifies existing database objects like tables )
-
-Ans : DDL
-
-
-4)Determine the appropriate command classification for the following command.
-Command- REVOKE ( Remove access to database objects like tables from users )
-
-Ans : DCL
-
-
 5) To save the database changes permanently commands from which command classification should be used?
 
 Ans : TCL
